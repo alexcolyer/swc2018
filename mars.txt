@@ -4,4 +4,3 @@ There are lots of Martians living on Mars.
 Venus, Earth, Mars... etc.
 
 Additional comment about the red planet.
-More changes for the mars text file
